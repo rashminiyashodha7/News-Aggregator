@@ -1,4 +1,5 @@
-const API_KEY = 'f74d77aae9e44da5befc07449b785e82';
+const API_KEY = '***************';
+//Add Your API KEY
 
 let currentPage = 1;
 let currentCategory = null;
